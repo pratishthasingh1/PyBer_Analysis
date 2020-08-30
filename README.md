@@ -5,11 +5,12 @@ An analysis was performed to determine a relationship between different city typ
 
 
 ## Results
+## Breakdown of rides, drivers and fares:
 First difference we see in the summary dataframe below is that the more populated a city is (rural population < suburban population < urban population), the more rides were recorded. The total drivers and total fares also follow this trend. However, the average fare per ride and average fare per driver follows the opposite trend. They both decrease as you go towards a more populated city. 
 An assumption can be made here that with more demand, the cost decreases. 
-</b>
-Breakdown of rides, drivers and fares:
 ![Summary_Data](https://github.com/pratishthasingh1/PyBer_Analysis/blob/master/Resources/ride_data.png?raw=true)
+## Graph of total fares per city type:
+Below is a graph that shows the total fares for rural, suburban and urban city types. It is apparent at first glace, there are large differences between each city types. Urban cities being far more successful, while suburban and rural following behind. 
 ![Ride_Data](https://github.com/pratishthasingh1/PyBer_Analysis/blob/master/Resources/ride_graph.png?raw=true)
 
 ## Recommendations
